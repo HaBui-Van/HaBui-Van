@@ -9,7 +9,7 @@ In this page, I'd share my radar-related projects as well as some projects that 
 
 - 🌱 I’m currently learning: Radar signal processing, interference mitigation techniques, radar system as well as applying AI to radar
 - 💞️ I’m looking to collaborate on real-life radar application, such as mmWave Radar for smart home, medical, industrial and automotive applications
-- 📫 How to reach me 
+- 📫 [How to reach me](bvha352@gmail.com) 
 
 <!---
 HaBui-Van/HaBui-Van is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
